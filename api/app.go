@@ -7,7 +7,7 @@ import (
 
 	"github.com/gorilla/mux"
 
-	ctrl "golang-mongo/controller"
+	ctrl "github.com/dymzfp/base-golang-mongo/controller"
 )
 
 const (

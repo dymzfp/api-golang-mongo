@@ -12,8 +12,8 @@ import (
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"github.com/gorilla/mux"
 
-	"golang-mongo/model"
-	conf "golang-mongo/config"
+	"github.com/dymzfp/base-golang-mongo/model"
+	conf "github.com/dymzfp/base-golang-mongo/config"
 )
 
 const (
